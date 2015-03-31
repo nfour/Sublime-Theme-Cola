@@ -34,7 +34,7 @@ Either edit `/Data/Packages/Theme - Cola/Cola.sublime-theme` or google for how y
 Some subjective things:
 
 - `Cola.sublime-theme`
-	- Line `15 to ~100`. Tab customization. The tab width, tab height etc. it's all rather straightforward.
+	- Line `15 to ~100`. Tab customization. The tab width, tab height etc.
 	- Line `621`. This is the sidebar label color, currently a very pale gold
 
 - Throw in a different icon pack into `./icons/`
@@ -49,7 +49,7 @@ It's quite satisfactory, although...
 
 ### What is that Color Scheme and Coffeescript .tmLanguage!?
 
-Yes, that *is* function call highlighting!
+Yes, that *is* function call highlighting and embedded CJSX!  
 Custom built. Happy to release them properly should anyone care.
 
 ### License
