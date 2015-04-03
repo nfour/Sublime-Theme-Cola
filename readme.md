@@ -3,7 +3,7 @@
 A [Soda](https://github.com/buymeasoda/soda-theme) variant theme for ST3 3062+.
 Because Soda is apparently abandoned and we can't have that.
 
-[![Cola](http://i.imgur.com/P0udiXH.png)](http://i.imgur.com/P0udiXH.png)
+[![Cola](http://i.imgur.com/zj6q7yS.png)](http://i.imgur.com/zj6q7yS.png)
 
 ### Features and Differences
 - Sidebar icon support
