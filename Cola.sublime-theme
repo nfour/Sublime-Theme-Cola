@@ -571,12 +571,12 @@
 		"layer0.texture": "Theme - Cola/images/sidebar-bg.png",
 		"layer0.opacity": 1,
 		"layer0.inner_margin": [1, 1, 2, 1],
-		"content_margin": [0, 5, 0, 0]
+		"content_margin": [0, 4, 0, 0]
 	},
 	// Sidebar tree
 	{
 		"class": "sidebar_tree",
-		"row_padding": [8, 4, 8, 5],
+		"row_padding": [16, 4, 8, 5],
 		"indent": 16,
 		"indent_offset": 0,
 		"indent_top_level": false,

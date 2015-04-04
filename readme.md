@@ -16,7 +16,7 @@ Because Soda is apparently abandoned and we can't have that.
 	- Added `show_tab_scroll_buttons` option.
 		- By default tab scroll buttons (left side of tab bar) are hidden. The dropdown can be disabled as usual.
 - Sidebar
-	- Reduced left-indent to 16px, aligning icons up with the text.
+	- Maintains a left-indent of 16px, aligning open files, headings and folders.
 	- Increased row bottom padding by 1px
 	- Removed leftmost margin so that selected item overlay spans entire width
 	- Headings (FOLDERS, OPEN FILES) are now very low contrast as they are least important
@@ -24,6 +24,7 @@ Because Soda is apparently abandoned and we can't have that.
 	- Added hover effect to rows
 	- Slimmed up horizontal padding, sidebar is far more succinct in space while not cramped
 	- Fixed sidebar titles causing their own indentation
+
 
 ### Want to customize something?
 
