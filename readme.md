@@ -38,14 +38,6 @@ Some subjective things:
 
 - Throw in a different icon pack into `./icons/`
 
-### Progress
-
-It's quite satisfactory, although...
-
-- Been meaning to try some font variants, especially for the sidebar
-- Dim the lower panel and tab's background color to match the sidebar/statusbar
-
-
 ### What is that Color Scheme and Coffeescript .tmLanguage!?
 
 Yes, that *is* function call highlighting and embedded CJSX!  

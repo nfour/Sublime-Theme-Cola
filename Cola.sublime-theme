@@ -319,7 +319,7 @@
 	{
 		"class": "scroll_bar_control",
 		"layer0.texture": "Theme - Cola/images/standard-scrollbar-vertical.png",
-		"layer0.opacity": 0.5,
+		"layer0.opacity": 1,
 		"layer0.inner_margin": [2, 6],
 		"blur": false
 	},
@@ -329,7 +329,7 @@
 		"attributes": ["horizontal"],
 		"layer0.texture": "Theme - Cola/images/standard-scrollbar-horizontal.png",
 		"layer0.inner_margin": [6, 2],
-		"layer0.opacity": 0.5,
+		"layer0.opacity": 1,
 		"blur": false
 	},
 	// Standard scroll bar corner
@@ -337,13 +337,13 @@
 		"class": "scroll_corner_control",
 		"layer0.texture": "Theme - Cola/images/standard-scrollbar-corner.png",
 		"layer0.inner_margin": [2, 2],
-		"layer0.opacity": 0.5
+		"layer0.opacity": 1
 	},
 	// Standard vertical scroll puck
 	{
 		"class": "puck_control",
 		"layer0.texture": "Theme - Cola/images/standard-puck-vertical.png",
-		"layer0.opacity": 0.5,
+		"layer0.opacity": 0.65,
 		"layer0.inner_margin": [0, 10],
 		"content_margin": [8, 12],
 		"blur": false
