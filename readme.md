@@ -18,7 +18,6 @@ Because Soda is apparently abandoned and we can't have that.
 - Sidebar
 	- Maintains a left-indent of 16px, aligning open files, headings and folders.
 	- Increased row bottom padding by 1px
-	- Removed leftmost margin so that selected item overlay spans entire width
 	- Headings (FOLDERS, OPEN FILES) are now very low contrast as they are least important
 	- Folders are transparent when not selected, further directing importance
 	- Added hover effect to rows
