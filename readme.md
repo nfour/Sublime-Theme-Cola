@@ -44,5 +44,5 @@ Some subjective things:
 
 Yes, that *is* function call highlighting and embedded CJSX!  
 
-[Color Scheme - Pastels](https://github.com/nfour/Sublime-Scheme-Pastels)
-[CoffeeScript Syntax](https://github.com/nfour/Sublime-Coffeescript-Syntax)
+- [Color Scheme - Pastels](https://github.com/nfour/Sublime-Scheme-Pastels)
+- [CoffeeScript Syntax](https://github.com/nfour/Sublime-Coffeescript-Syntax)
