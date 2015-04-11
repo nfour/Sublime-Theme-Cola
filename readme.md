@@ -40,8 +40,6 @@ Some subjective things:
 ### What is that Color Scheme and Coffeescript .tmLanguage!?
 
 Yes, that *is* function call highlighting and embedded CJSX!  
-Custom built. Happy to release them properly should anyone care.
 
-### License
-
-Go nuts.
+[Color Scheme - Pastels](https://github.com/nfour/Sublime-Scheme-Pastels)
+[CoffeeScript Syntax](https://github.com/nfour/Sublime-Coffeescript-Syntax)
