@@ -24,6 +24,9 @@ Because Soda is apparently abandoned and we can't have that.
 	- Slimmed up horizontal padding, sidebar is far more succinct in space while not cramped
 	- Fixed sidebar titles causing their own indentation
 
+### Install
+- Install via Package Control or clone this repo as `./Data/Packages/Theme - Cola`.
+- Use the package `themr` to switch themes, or edit your preferences file.
 
 ### Want to customize something?
 
