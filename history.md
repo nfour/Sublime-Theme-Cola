@@ -1,5 +1,8 @@
 ### History
 
+#### 0.5.1
+- Fixed tab clicking when using `soda_classic_tabs`
+
 #### 0.5.0
 - Fixed `php` icon
 

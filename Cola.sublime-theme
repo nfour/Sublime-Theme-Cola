@@ -87,7 +87,7 @@
 		"class": "tab_control",
 		"settings": ["soda_classic_tabs"],
 		"content_margin": [22, 6, 22, 4],
-		"hit_test_level": 0.5,
+		"hit_test_level": 0.4,
 		"layer0.texture": "Theme - Cola/images/classic/tab-inactive.png",
 		"layer0.inner_margin": [18, 4]
 	},
